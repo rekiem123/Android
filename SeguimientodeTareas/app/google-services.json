@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "344280316599",
+    "firebase_url": "https://seguimiento-de-tareas.firebaseio.com",
+    "project_id": "seguimiento-de-tareas",
+    "storage_bucket": "seguimiento-de-tareas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344280316599:android:80791284a3a78f9d",
+        "android_client_info": {
+          "package_name": "com.pixelbitperu.seguimientodetareas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344280316599-at7epjkdd5bml0b1d7uihm29mnn69hup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pixelbitperu.seguimientodetareas",
+            "certificate_hash": "3696933ddbe0d5ee941f3f89cd78bcc955117313"
+          }
+        },
+        {
+          "client_id": "344280316599-8ia2bkvr6rgtqk0sp3i9fsvi8cnpm8pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQqc8fX2Y9PQAI9QtSTv773KGsWdyEQ98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344280316599-8ia2bkvr6rgtqk0sp3i9fsvi8cnpm8pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
